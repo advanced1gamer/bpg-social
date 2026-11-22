@@ -1,0 +1,27 @@
+{
+ "date": "2026-11-24",
+ "slot": "AM",
+ "time_pt": "09:00",
+ "theme": "Tue \u00b7 Build With Us",
+ "format": "carousel",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-11/2026-11-24-AM/01.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-11/2026-11-24-AM/02.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-11/2026-11-24-AM/03.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-11/2026-11-24-AM/04.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-11/2026-11-24-AM/05.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-11/2026-11-24-AM/06.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-11/2026-11-24-AM/07.jpg"
+ ],
+ "graphics": [
+  "G-Work-1",
+  "G-Work-2",
+  "G-Work-3",
+  "G-Work-4",
+  "G-Work-5",
+  "G-Work-6",
+  "G-Work-7"
+ ],
+ "caption": "Everything we build, in one place. Communities, streams, websites, content, collabs and partnerships. Choose one or several. Most good ideas are a mix.\n\nTell us what you're building: link in bio.\n\n#BlackPointGaming #StreamerTips #DiscordServer #TwitchStreamer #ContentCreator #StreamSetup",
+ "status": "approved"
+}

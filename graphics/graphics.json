@@ -1,4 +1,221 @@
 {
  "about": "Approved master graphics (one entry per slide). Added only after approval.",
- "graphics": []
+ "graphics": [
+  {
+   "id": "G-Work-1",
+   "file": "graphics/G-Work-1.jpg",
+   "template": "Work-1",
+   "media_id": "M006",
+   "first_used": "2026-11-24",
+   "note": ""
+  },
+  {
+   "id": "G-Work-2",
+   "file": "graphics/G-Work-2.jpg",
+   "template": "Work-2",
+   "media_id": null,
+   "first_used": "2026-11-24",
+   "note": ""
+  },
+  {
+   "id": "G-Work-3",
+   "file": "graphics/G-Work-3.jpg",
+   "template": "Work-3",
+   "media_id": null,
+   "first_used": "2026-11-24",
+   "note": ""
+  },
+  {
+   "id": "G-Work-4",
+   "file": "graphics/G-Work-4.jpg",
+   "template": "Work-4",
+   "media_id": null,
+   "first_used": "2026-11-24",
+   "note": ""
+  },
+  {
+   "id": "G-Work-5",
+   "file": "graphics/G-Work-5.jpg",
+   "template": "Work-5",
+   "media_id": null,
+   "first_used": "2026-11-24",
+   "note": ""
+  },
+  {
+   "id": "G-Work-6",
+   "file": "graphics/G-Work-6.jpg",
+   "template": "Work-6",
+   "media_id": null,
+   "first_used": "2026-11-24",
+   "note": ""
+  },
+  {
+   "id": "G-Work-7",
+   "file": "graphics/G-Work-7.jpg",
+   "template": "Work-7",
+   "media_id": null,
+   "first_used": "2026-11-24",
+   "note": ""
+  },
+  {
+   "id": "G-Wk1-Discord",
+   "file": "graphics/G-Wk1-Discord.jpg",
+   "template": "Wk1-Discord",
+   "media_id": "M003",
+   "first_used": "2026-11-24",
+   "note": "dated label"
+  },
+  {
+   "id": "G-Rec-1",
+   "file": "graphics/G-Rec-1.jpg",
+   "template": "Rec-1",
+   "media_id": "M007",
+   "first_used": "2026-11-25",
+   "note": ""
+  },
+  {
+   "id": "G-Rec-2",
+   "file": "graphics/G-Rec-2.jpg",
+   "template": "Rec-2",
+   "media_id": null,
+   "first_used": "2026-11-25",
+   "note": ""
+  },
+  {
+   "id": "G-Rec-3",
+   "file": "graphics/G-Rec-3.jpg",
+   "template": "Rec-3",
+   "media_id": null,
+   "first_used": "2026-11-25",
+   "note": ""
+  },
+  {
+   "id": "G-Rec-4",
+   "file": "graphics/G-Rec-4.jpg",
+   "template": "Rec-4",
+   "media_id": null,
+   "first_used": "2026-11-25",
+   "note": ""
+  },
+  {
+   "id": "G-S1-Stream",
+   "file": "graphics/G-S1-Stream.jpg",
+   "template": "S1-Stream",
+   "media_id": "M013",
+   "first_used": "2026-11-25",
+   "note": "dated label"
+  },
+  {
+   "id": "G-Wk1-Thanks",
+   "file": "graphics/G-Wk1-Thanks.jpg",
+   "template": "Wk1-Thanks",
+   "media_id": "M002",
+   "first_used": "2026-11-26",
+   "note": "dated label"
+  },
+  {
+   "id": "G-S2-Discord",
+   "file": "graphics/G-S2-Discord.jpg",
+   "template": "S2-Discord",
+   "media_id": "M016",
+   "first_used": "2026-11-26",
+   "note": "dated label"
+  },
+  {
+   "id": "G-Wk1-Supply",
+   "file": "graphics/G-Wk1-Supply.jpg",
+   "template": "Wk1-Supply",
+   "media_id": "M014",
+   "first_used": "2026-11-27",
+   "note": "dated label"
+  },
+  {
+   "id": "G-S3-Websites",
+   "file": "graphics/G-S3-Websites.jpg",
+   "template": "S3-Websites",
+   "media_id": "M015",
+   "first_used": "2026-11-27",
+   "note": "dated label"
+  },
+  {
+   "id": "G-Wk1-Game",
+   "file": "graphics/G-Wk1-Game.jpg",
+   "template": "Wk1-Game",
+   "media_id": "M005",
+   "first_used": "2026-11-28",
+   "note": "dated label"
+  },
+  {
+   "id": "G-S4-Content",
+   "file": "graphics/G-S4-Content.jpg",
+   "template": "S4-Content",
+   "media_id": "M009",
+   "first_used": "2026-11-28",
+   "note": "dated label"
+  },
+  {
+   "id": "G-Wk1-Collab",
+   "file": "graphics/G-Wk1-Collab.jpg",
+   "template": "Wk1-Collab",
+   "media_id": "M008",
+   "first_used": "2026-11-29",
+   "note": "dated label"
+  },
+  {
+   "id": "G-S5-Collabs",
+   "file": "graphics/G-S5-Collabs.jpg",
+   "template": "S5-Collabs",
+   "media_id": "M011",
+   "first_used": "2026-11-29",
+   "note": "dated label"
+  },
+  {
+   "id": "G-Main",
+   "file": "graphics/G-Main.jpg",
+   "template": "Main",
+   "media_id": "M012",
+   "first_used": "2026-11-30",
+   "note": ""
+  },
+  {
+   "id": "G-Svc-2",
+   "file": "graphics/G-Svc-2.jpg",
+   "template": "Svc-2",
+   "media_id": null,
+   "first_used": "2026-11-30",
+   "note": "dated label"
+  },
+  {
+   "id": "G-Svc-3",
+   "file": "graphics/G-Svc-3.jpg",
+   "template": "Svc-3",
+   "media_id": null,
+   "first_used": "2026-11-30",
+   "note": "dated label"
+  },
+  {
+   "id": "G-Svc-4",
+   "file": "graphics/G-Svc-4.jpg",
+   "template": "Svc-4",
+   "media_id": "M001",
+   "first_used": "2026-11-30",
+   "note": "dated label"
+  },
+  {
+   "id": "G-Svc-5",
+   "file": "graphics/G-Svc-5.jpg",
+   "template": "Svc-5",
+   "media_id": null,
+   "first_used": "2026-11-30",
+   "note": "dated label"
+  },
+  {
+   "id": "G-S6-Enlist",
+   "file": "graphics/G-S6-Enlist.jpg",
+   "template": "S6-Enlist",
+   "media_id": "M017",
+   "first_used": "2026-11-30",
+   "note": "dated label"
+  }
+ ]
 }

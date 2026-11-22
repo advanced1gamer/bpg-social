@@ -1,0 +1,23 @@
+{
+ "date": "2026-11-30",
+ "slot": "AM",
+ "time_pt": "09:00",
+ "theme": "Mon \u00b7 Build With Us",
+ "format": "carousel",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-11/2026-11-30-AM/01.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-11/2026-11-30-AM/02.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-11/2026-11-30-AM/03.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-11/2026-11-30-AM/04.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-11/2026-11-30-AM/05.jpg"
+ ],
+ "graphics": [
+  "G-Main",
+  "G-Svc-2",
+  "G-Svc-3",
+  "G-Svc-4",
+  "G-Svc-5"
+ ],
+ "caption": "We build the things behind the stream.\n\nDiscord servers built to grow. Stream setups that look the part. A home base that's actually yours. For anyone building something bigger.\n\nTell us what you're building: link in bio.\n\n#BlackPointGaming #StreamerTips #CommunityBuilding #StreamSetup #ContentCreator",
+ "status": "approved"
+}
