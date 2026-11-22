@@ -1,0 +1,378 @@
+{
+ "about": "Source media for BPG social posts. status=active can be used; reference-only = near-duplicate, never used in posts. Usage history lives in bpg-studio/ledger.",
+ "media": [
+  {
+   "id": "M001",
+   "file": "library/media/M001-home-hero.jpg",
+   "title": "Silhouette at the globe wall",
+   "tags": [
+    "commander",
+    "silhouette",
+    "globe",
+    "command-center",
+    "wide"
+   ],
+   "mood": "iconic",
+   "orientation": "landscape",
+   "size": [
+    1920,
+    1080
+   ],
+   "source": "bpg-site",
+   "status": "active",
+   "dup_of": null
+  },
+  {
+   "id": "M002",
+   "file": "library/media/M002-mobile-hero.jpg",
+   "title": "Silhouette at the globe wall (vertical)",
+   "tags": [
+    "commander",
+    "silhouette",
+    "globe",
+    "vertical"
+   ],
+   "mood": "iconic",
+   "orientation": "portrait",
+   "size": [
+    1080,
+    1920
+   ],
+   "source": "bpg-site",
+   "status": "active",
+   "dup_of": null
+  },
+  {
+   "id": "M003",
+   "file": "library/media/M003-hq-atmosphere.jpg",
+   "title": "Ops floor with operators at consoles",
+   "tags": [
+    "operators",
+    "command-center",
+    "team",
+    "wide"
+   ],
+   "mood": "busy",
+   "orientation": "landscape",
+   "size": [
+    1920,
+    1080
+   ],
+   "source": "bpg-site",
+   "status": "active",
+   "dup_of": null
+  },
+  {
+   "id": "M004",
+   "file": "library/media/M004-live-operations-intro.jpg",
+   "title": "Operator with headset, ops floor",
+   "tags": [
+    "operator",
+    "headset",
+    "live",
+    "woman"
+   ],
+   "mood": "focused",
+   "orientation": "landscape",
+   "size": [
+    1920,
+    1080
+   ],
+   "source": "bpg-site",
+   "status": "active",
+   "dup_of": null
+  },
+  {
+   "id": "M005",
+   "file": "library/media/M005-vertical-live-promo.jpg",
+   "title": "Operator with headset (vertical)",
+   "tags": [
+    "operator",
+    "headset",
+    "live",
+    "woman",
+    "vertical"
+   ],
+   "mood": "focused",
+   "orientation": "portrait",
+   "size": [
+    1080,
+    1920
+   ],
+   "source": "bpg-site",
+   "status": "active",
+   "dup_of": null
+  },
+  {
+   "id": "M006",
+   "file": "library/media/M006-services-reel.jpg",
+   "title": "Commander beside city-grid hologram",
+   "tags": [
+    "commander",
+    "hologram",
+    "city-grid",
+    "build"
+   ],
+   "mood": "strategic",
+   "orientation": "landscape",
+   "size": [
+    1920,
+    1080
+   ],
+   "source": "bpg-site",
+   "status": "active",
+   "dup_of": null
+  },
+  {
+   "id": "M007",
+   "file": "library/media/M007-recruitment-video.jpg",
+   "title": "New Recruit Enlisted screen",
+   "tags": [
+    "recruit",
+    "enlist",
+    "screen",
+    "team"
+   ],
+   "mood": "welcoming",
+   "orientation": "landscape",
+   "size": [
+    1920,
+    1080
+   ],
+   "source": "bpg-site",
+   "status": "active",
+   "dup_of": null
+  },
+  {
+   "id": "M008",
+   "file": "library/media/M008-partnerships-reel.jpg",
+   "title": "Officer pointing at tactical map table",
+   "tags": [
+    "commander",
+    "map-table",
+    "planning",
+    "partnership"
+   ],
+   "mood": "decisive",
+   "orientation": "landscape",
+   "size": [
+    1920,
+    1080
+   ],
+   "source": "bpg-site",
+   "status": "active",
+   "dup_of": null
+  },
+  {
+   "id": "M009",
+   "file": "library/media/M009-featured-commercial.jpg",
+   "title": "Jet cockpit above the clouds",
+   "tags": [
+    "jets",
+    "cockpit",
+    "cinematic",
+    "sky"
+   ],
+   "mood": "epic",
+   "orientation": "landscape",
+   "size": [
+    1920,
+    1080
+   ],
+   "source": "bpg-site",
+   "status": "active",
+   "dup_of": null
+  },
+  {
+   "id": "M010",
+   "file": "library/media/M010-armory-showcase.jpg",
+   "title": "Commander with armament hologram",
+   "tags": [
+    "commander",
+    "hologram",
+    "armory",
+    "gear"
+   ],
+   "mood": "intense",
+   "orientation": "landscape",
+   "size": [
+    1920,
+    1080
+   ],
+   "source": "bpg-site",
+   "status": "active",
+   "dup_of": null
+  },
+  {
+   "id": "M011",
+   "file": "library/media/M011-ops-commander-globe.jpg",
+   "title": "Commander in front of globe and maps",
+   "tags": [
+    "commander",
+    "globe",
+    "maps",
+    "headset"
+   ],
+   "mood": "steady",
+   "orientation": "landscape",
+   "size": [
+    1920,
+    1072
+   ],
+   "source": "aja-upload-2026-11-22",
+   "status": "active",
+   "dup_of": null
+  },
+  {
+   "id": "M012",
+   "file": "library/media/M012-commander-hologram-closeup.jpg",
+   "title": "Close-up profile at schematic hologram",
+   "tags": [
+    "commander",
+    "hologram",
+    "closeup",
+    "schematic"
+   ],
+   "mood": "intense",
+   "orientation": "landscape",
+   "size": [
+    1920,
+    1072
+   ],
+   "source": "aja-upload-2026-11-22",
+   "status": "active",
+   "dup_of": null
+  },
+  {
+   "id": "M013",
+   "file": "library/media/M013-operator-code-monitor.jpg",
+   "title": "Operator at code monitor, side profile",
+   "tags": [
+    "operator",
+    "code",
+    "monitor",
+    "headset",
+    "tech"
+   ],
+   "mood": "focused",
+   "orientation": "landscape",
+   "size": [
+    1920,
+    1072
+   ],
+   "source": "aja-upload-2026-11-22",
+   "status": "active",
+   "dup_of": null
+  },
+  {
+   "id": "M014",
+   "file": "library/media/M014-loadout-drop-table.jpg",
+   "title": "LOADOUT DROP on tactical table",
+   "tags": [
+    "commander",
+    "table",
+    "drop",
+    "supply-drop",
+    "giveaway"
+   ],
+   "mood": "urgent",
+   "orientation": "landscape",
+   "size": [
+    1920,
+    1072
+   ],
+   "source": "aja-upload-2026-11-22",
+   "status": "active",
+   "dup_of": null
+  },
+  {
+   "id": "M015",
+   "file": "library/media/M015-operator-headset-profile.jpg",
+   "title": "Operator in headset at monitor row",
+   "tags": [
+    "operator",
+    "headset",
+    "monitors",
+    "tech"
+   ],
+   "mood": "focused",
+   "orientation": "landscape",
+   "size": [
+    1920,
+    1072
+   ],
+   "source": "aja-upload-2026-11-22",
+   "status": "active",
+   "dup_of": null
+  },
+  {
+   "id": "M016",
+   "file": "library/media/M016-commander-ops-floor-wide.jpg",
+   "title": "Commander walking the ops floor (wide)",
+   "tags": [
+    "commander",
+    "ops-floor",
+    "team",
+    "wide"
+   ],
+   "mood": "commanding",
+   "orientation": "landscape",
+   "size": [
+    1920,
+    1072
+   ],
+   "source": "aja-upload-2026-11-22",
+   "status": "active",
+   "dup_of": null
+  },
+  {
+   "id": "M017",
+   "file": "library/media/M017-commander-walking.jpg",
+   "title": "Commander walking through ops room",
+   "tags": [
+    "commander",
+    "walking",
+    "ops-room"
+   ],
+   "mood": "commanding",
+   "orientation": "landscape",
+   "size": [
+    1678,
+    937
+   ],
+   "source": "aja-upload-2026-11-22",
+   "status": "active",
+   "dup_of": null
+  },
+  {
+   "id": "R001",
+   "file": "library/reference/R001-map-table-pointing.jpg",
+   "title": "Pointing at map table (near-copy of M008)",
+   "tags": [],
+   "mood": null,
+   "orientation": "landscape",
+   "size": [
+    1920,
+    1072
+   ],
+   "source": "aja-upload-2026-11-22",
+   "status": "reference-only",
+   "dup_of": "M008"
+  },
+  {
+   "id": "R002",
+   "file": "library/reference/R002-wide-city-grid.jpg",
+   "title": "Wide city-grid hologram room (near-copy of M006)",
+   "tags": [],
+   "mood": null,
+   "orientation": "landscape",
+   "size": [
+    1920,
+    1072
+   ],
+   "source": "aja-upload-2026-11-22",
+   "status": "reference-only",
+   "dup_of": "M006"
+  }
+ ]
+}
