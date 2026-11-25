@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-19",
+ "slot": "AM",
+ "time_pt": "09:00",
+ "theme": "Sat \u00b7 Game Night",
+ "format": "quote",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-19-AM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-19-AM-01"
+ ],
+ "caption": "Saturday plans? Already handled.\n\nCommunity Game Night is tonight at 5 PM PT. Squad up with the Black Point community live on stream in the Live Operations voice channel.\n\nDiscord: discord.gg/DCUMe6u7X2\n\n#GameNight #SquadUp #GamingCommunity #BlackPointGaming",
+ "message_id": "MSG-EVT-GAMENIGHT",
+ "tone": "community",
+ "status": "approved"
+}

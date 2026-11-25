@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-12",
+ "slot": "PM",
+ "time_pt": "15:00",
+ "theme": "Sat \u00b7 Service spotlight",
+ "format": "spotlight",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-12-PM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-12-PM-01"
+ ],
+ "caption": "Your best moment shouldn't stay buried in a VOD.\n\nShort-form edits and highlights put your best moments where new viewers can find them. We cut them to fit each platform.\n\nTell us what you're building: link in bio.\n\n#ShortFormContent #VideoEditing #StreamHighlights #ContentCreator #BlackPointGaming",
+ "message_id": "MSG-SVC-CONTENT-SHORTS",
+ "tone": "command",
+ "status": "approved"
+}

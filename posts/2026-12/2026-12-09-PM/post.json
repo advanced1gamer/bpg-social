@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-09",
+ "slot": "PM",
+ "time_pt": "15:00",
+ "theme": "Wed \u00b7 Service spotlight",
+ "format": "spotlight",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-09-PM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-09-PM-01"
+ ],
+ "caption": "First impressions start before you say a word.\n\nCinematic intros and trailers set the tone for your stream, your channel or your launch. We produce them to match your brand.\n\nTell us what you're building: link in bio.\n\n#StreamIntro #ChannelTrailer #VideoEditing #ContentCreation #BlackPointGaming",
+ "message_id": "MSG-SVC-CONTENT-INTROS",
+ "tone": "command",
+ "status": "approved"
+}

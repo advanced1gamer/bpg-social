@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-05",
+ "slot": "PM",
+ "time_pt": "15:00",
+ "theme": "Sat \u00b7 Community",
+ "format": "quote",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-05-PM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-05-PM-01"
+ ],
+ "caption": "What's on your plate this weekend?\n\nThe Command Center has a #chow-hall. Game night snacks, weekend cooking, the meal that got you through a long stream: post it there.\n\nJoin the Discord: discord.gg/DCUMe6u7X2\n\n#GamingCommunity #GamerFood #Discord #BlackPointGaming",
+ "message_id": "MSG-CC-CHOWHALL",
+ "tone": "community",
+ "status": "approved"
+}

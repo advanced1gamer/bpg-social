@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-17",
+ "slot": "PM",
+ "time_pt": "15:00",
+ "theme": "Thu \u00b7 Service spotlight",
+ "format": "checklist",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-17-PM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-17-PM-01"
+ ],
+ "caption": "Three things every Discord needs before it needs more members.\n\n1. Real structure: channels people can navigate.\n2. Roles, ranks and onboarding.\n3. Events and rituals.\n\nWe build all three. Tell us what you're building: link in bio.\n\n#DiscordServer #CommunityBuilding #DiscordCommunity #BlackPointGaming",
+ "message_id": "MSG-SVC-COMMUNITIES",
+ "tone": "guide",
+ "status": "approved"
+}

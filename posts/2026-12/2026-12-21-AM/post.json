@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-21",
+ "slot": "AM",
+ "time_pt": "09:00",
+ "theme": "Mon \u00b7 Build With Us",
+ "format": "quote",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-21-AM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-21-AM-01"
+ ],
+ "caption": "Every stream has a crew you don't see.\n\nCommunities, streams, websites, content and collabs: Black Point Gaming builds the things behind the stream for anyone building something bigger.\n\nTell us what you're building: link in bio.\n\n#BlackPointGaming #StreamerTips #CommunityBuilding #ContentCreator",
+ "message_id": "MSG-SVC-OVERVIEW",
+ "tone": "community",
+ "status": "approved"
+}

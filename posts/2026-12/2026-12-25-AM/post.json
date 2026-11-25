@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-25",
+ "slot": "AM",
+ "time_pt": "09:00",
+ "theme": "Christmas Day",
+ "format": "single",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-25-AM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-25-AM-01"
+ ],
+ "caption": "Merry Christmas from the Command Center.\n\nThank you to every operator who showed up this year. Enjoy today. The Christmas Supply Drop is on stream tonight.\n\nUS only \u00b7 18+ \u00b7 Discord required. Full rules on the website. Black Point Gaming never DMs winners asking for payment or fees.\n\n#MerryChristmas #GamingCommunity #BlackPointGaming",
+ "message_id": "MSG-HOL-XMAS",
+ "tone": "community",
+ "status": "approved"
+}

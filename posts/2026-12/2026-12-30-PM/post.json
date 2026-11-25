@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-30",
+ "slot": "PM",
+ "time_pt": "15:00",
+ "theme": "Wed \u00b7 Service spotlight",
+ "format": "single",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-30-PM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-30-PM-01"
+ ],
+ "caption": "Give every new member a map.\n\nRoles, ranks and onboarding show new members where to go and how to grow. We build that structure into your Discord.\n\nTell us what you're building: link in bio.\n\n#DiscordServer #CommunityBuilding #DiscordCommunity #BlackPointGaming",
+ "message_id": "MSG-SVC-COMM-ONBOARD",
+ "tone": "guide",
+ "status": "approved"
+}

@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-30",
+ "slot": "AM",
+ "time_pt": "09:00",
+ "theme": "Wed \u00b7 Recruiting",
+ "format": "single",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-30-AM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-30-AM-01"
+ ],
+ "caption": "Enlisting for 2027 starts now.\n\nBlack Point Gaming is recruiting streamers and gamers ready to grow with a squad behind them. Apply on the website.\n\nApply: link in bio.\n\n#NowRecruiting #TwitchStreamer #GamingOrg #SmallStreamer #BlackPointGaming",
+ "message_id": "MSG-REC-STREAMERS",
+ "tone": "command",
+ "status": "approved"
+}

@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-24",
+ "slot": "AM",
+ "time_pt": "09:00",
+ "theme": "Christmas Eve",
+ "format": "single",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-24-AM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-24-AM-01"
+ ],
+ "caption": "Christmas Eve at the Command Center.\n\nTo every operator: rest up, enjoy the people around you, and we'll see you on stream. Merry Christmas Eve from Black Point Gaming.\n\n#ChristmasEve #GamingCommunity #BlackPointGaming",
+ "message_id": "MSG-HOL-XMASEVE",
+ "tone": "community",
+ "status": "approved"
+}

@@ -216,6 +216,622 @@
    "media_id": "M017",
    "first_used": "2026-11-30",
    "note": "dated label"
+  },
+  {
+   "id": "G-Dec-01-AM-01",
+   "file": "graphics/G-Dec-01-AM-01.jpg",
+   "template": "Dec-01-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-01",
+   "note": "MSG-SVC-ANYONE"
+  },
+  {
+   "id": "G-Dec-01-AM-02",
+   "file": "graphics/G-Dec-01-AM-02.jpg",
+   "template": "Dec-01-AM-02",
+   "media_id": null,
+   "first_used": "2026-12-01",
+   "note": "MSG-SVC-ANYONE"
+  },
+  {
+   "id": "G-Dec-01-AM-03",
+   "file": "graphics/G-Dec-01-AM-03.jpg",
+   "template": "Dec-01-AM-03",
+   "media_id": null,
+   "first_used": "2026-12-01",
+   "note": "MSG-SVC-ANYONE"
+  },
+  {
+   "id": "G-Dec-01-AM-04",
+   "file": "graphics/G-Dec-01-AM-04.jpg",
+   "template": "Dec-01-AM-04",
+   "media_id": null,
+   "first_used": "2026-12-01",
+   "note": "MSG-SVC-ANYONE"
+  },
+  {
+   "id": "G-Dec-01-AM-05",
+   "file": "graphics/G-Dec-01-AM-05.jpg",
+   "template": "Dec-01-AM-05",
+   "media_id": null,
+   "first_used": "2026-12-01",
+   "note": "MSG-SVC-ANYONE"
+  },
+  {
+   "id": "G-Dec-01-PM-01",
+   "file": "graphics/G-Dec-01-PM-01.jpg",
+   "template": "Dec-01-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-01",
+   "note": "MSG-CC-RANKS"
+  },
+  {
+   "id": "G-Dec-02-AM-01",
+   "file": "graphics/G-Dec-02-AM-01.jpg",
+   "template": "Dec-02-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-02",
+   "note": "MSG-REC-EDITORS"
+  },
+  {
+   "id": "G-Dec-02-PM-01",
+   "file": "graphics/G-Dec-02-PM-01.jpg",
+   "template": "Dec-02-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-02",
+   "note": "MSG-SVC-STREAMS-ALERTS"
+  },
+  {
+   "id": "G-Dec-03-AM-01",
+   "file": "graphics/G-Dec-03-AM-01.jpg",
+   "template": "Dec-03-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-03",
+   "note": "MSG-FM-SCHEDULE"
+  },
+  {
+   "id": "G-Dec-03-PM-01",
+   "file": "graphics/G-Dec-03-PM-01.jpg",
+   "template": "Dec-03-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-03",
+   "note": "MSG-SVC-COMM-ONBOARD"
+  },
+  {
+   "id": "G-Dec-04-AM-01",
+   "file": "graphics/G-Dec-04-AM-01.jpg",
+   "template": "Dec-04-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-04",
+   "note": "MSG-SUPPLY-COUNTDOWN"
+  },
+  {
+   "id": "G-Dec-04-PM-01",
+   "file": "graphics/G-Dec-04-PM-01.jpg",
+   "template": "Dec-04-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-04",
+   "note": "MSG-SVC-WEB-FORMS"
+  },
+  {
+   "id": "G-Dec-05-AM-01",
+   "file": "graphics/G-Dec-05-AM-01.jpg",
+   "template": "Dec-05-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-05",
+   "note": "MSG-EVT-GAMENIGHT-HOWTO"
+  },
+  {
+   "id": "G-Dec-05-PM-01",
+   "file": "graphics/G-Dec-05-PM-01.jpg",
+   "template": "Dec-05-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-05",
+   "note": "MSG-CC-CHOWHALL"
+  },
+  {
+   "id": "G-Dec-06-AM-01",
+   "file": "graphics/G-Dec-06-AM-01.jpg",
+   "template": "Dec-06-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-06",
+   "note": "MSG-EVT-COLLAB-STREAMERS"
+  },
+  {
+   "id": "G-Dec-06-PM-01",
+   "file": "graphics/G-Dec-06-PM-01.jpg",
+   "template": "Dec-06-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-06",
+   "note": "MSG-BRAND-OPEN"
+  },
+  {
+   "id": "G-Dec-07-AM-01",
+   "file": "graphics/G-Dec-07-AM-01.jpg",
+   "template": "Dec-07-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-07",
+   "note": "MSG-SVC-STRUCTURE"
+  },
+  {
+   "id": "G-Dec-07-AM-02",
+   "file": "graphics/G-Dec-07-AM-02.jpg",
+   "template": "Dec-07-AM-02",
+   "media_id": null,
+   "first_used": "2026-12-07",
+   "note": "MSG-SVC-STRUCTURE"
+  },
+  {
+   "id": "G-Dec-07-AM-03",
+   "file": "graphics/G-Dec-07-AM-03.jpg",
+   "template": "Dec-07-AM-03",
+   "media_id": null,
+   "first_used": "2026-12-07",
+   "note": "MSG-SVC-STRUCTURE"
+  },
+  {
+   "id": "G-Dec-07-AM-04",
+   "file": "graphics/G-Dec-07-AM-04.jpg",
+   "template": "Dec-07-AM-04",
+   "media_id": null,
+   "first_used": "2026-12-07",
+   "note": "MSG-SVC-STRUCTURE"
+  },
+  {
+   "id": "G-Dec-07-PM-01",
+   "file": "graphics/G-Dec-07-PM-01.jpg",
+   "template": "Dec-07-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-07",
+   "note": "MSG-REC-STREAMERS"
+  },
+  {
+   "id": "G-Dec-08-AM-01",
+   "file": "graphics/G-Dec-08-AM-01.jpg",
+   "template": "Dec-08-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-08",
+   "note": "MSG-NET-MODEL"
+  },
+  {
+   "id": "G-Dec-08-PM-01",
+   "file": "graphics/G-Dec-08-PM-01.jpg",
+   "template": "Dec-08-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-08",
+   "note": "MSG-CC-ALERTS"
+  },
+  {
+   "id": "G-Dec-09-AM-01",
+   "file": "graphics/G-Dec-09-AM-01.jpg",
+   "template": "Dec-09-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-09",
+   "note": "MSG-REC-MODS"
+  },
+  {
+   "id": "G-Dec-09-PM-01",
+   "file": "graphics/G-Dec-09-PM-01.jpg",
+   "template": "Dec-09-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-09",
+   "note": "MSG-SVC-CONTENT-INTROS"
+  },
+  {
+   "id": "G-Dec-10-AM-01",
+   "file": "graphics/G-Dec-10-AM-01.jpg",
+   "template": "Dec-10-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-10",
+   "note": "MSG-FM-RITUALS"
+  },
+  {
+   "id": "G-Dec-10-PM-01",
+   "file": "graphics/G-Dec-10-PM-01.jpg",
+   "template": "Dec-10-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-10",
+   "note": "MSG-SVC-STREAMS-REWARDS"
+  },
+  {
+   "id": "G-Dec-11-AM-01",
+   "file": "graphics/G-Dec-11-AM-01.jpg",
+   "template": "Dec-11-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-11",
+   "note": "MSG-SUPPLY-HABIT"
+  },
+  {
+   "id": "G-Dec-11-PM-01",
+   "file": "graphics/G-Dec-11-PM-01.jpg",
+   "template": "Dec-11-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-11",
+   "note": "MSG-SVC-COMM-EVENTS"
+  },
+  {
+   "id": "G-Dec-12-AM-01",
+   "file": "graphics/G-Dec-12-AM-01.jpg",
+   "template": "Dec-12-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-12",
+   "note": "MSG-EVT-WEEKEND"
+  },
+  {
+   "id": "G-Dec-12-PM-01",
+   "file": "graphics/G-Dec-12-PM-01.jpg",
+   "template": "Dec-12-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-12",
+   "note": "MSG-SVC-CONTENT-SHORTS"
+  },
+  {
+   "id": "G-Dec-13-AM-01",
+   "file": "graphics/G-Dec-13-AM-01.jpg",
+   "template": "Dec-13-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-13",
+   "note": "MSG-EVT-COLLAB-VIEWERS"
+  },
+  {
+   "id": "G-Dec-13-PM-01",
+   "file": "graphics/G-Dec-13-PM-01.jpg",
+   "template": "Dec-13-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-13",
+   "note": "MSG-BRAND-ROSTER"
+  },
+  {
+   "id": "G-Dec-14-AM-01",
+   "file": "graphics/G-Dec-14-AM-01.jpg",
+   "template": "Dec-14-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-14",
+   "note": "MSG-SVC-START"
+  },
+  {
+   "id": "G-Dec-14-PM-01",
+   "file": "graphics/G-Dec-14-PM-01.jpg",
+   "template": "Dec-14-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-14",
+   "note": "MSG-SUPPLY-SAFETY"
+  },
+  {
+   "id": "G-Dec-15-AM-01",
+   "file": "graphics/G-Dec-15-AM-01.jpg",
+   "template": "Dec-15-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-15",
+   "note": "MSG-SVC-LINEUP"
+  },
+  {
+   "id": "G-Dec-15-AM-02",
+   "file": "graphics/G-Dec-15-AM-02.jpg",
+   "template": "Dec-15-AM-02",
+   "media_id": null,
+   "first_used": "2026-12-15",
+   "note": "MSG-SVC-LINEUP"
+  },
+  {
+   "id": "G-Dec-15-AM-03",
+   "file": "graphics/G-Dec-15-AM-03.jpg",
+   "template": "Dec-15-AM-03",
+   "media_id": null,
+   "first_used": "2026-12-15",
+   "note": "MSG-SVC-LINEUP"
+  },
+  {
+   "id": "G-Dec-15-AM-04",
+   "file": "graphics/G-Dec-15-AM-04.jpg",
+   "template": "Dec-15-AM-04",
+   "media_id": null,
+   "first_used": "2026-12-15",
+   "note": "MSG-SVC-LINEUP"
+  },
+  {
+   "id": "G-Dec-15-AM-05",
+   "file": "graphics/G-Dec-15-AM-05.jpg",
+   "template": "Dec-15-AM-05",
+   "media_id": null,
+   "first_used": "2026-12-15",
+   "note": "MSG-SVC-LINEUP"
+  },
+  {
+   "id": "G-Dec-15-AM-06",
+   "file": "graphics/G-Dec-15-AM-06.jpg",
+   "template": "Dec-15-AM-06",
+   "media_id": null,
+   "first_used": "2026-12-15",
+   "note": "MSG-SVC-LINEUP"
+  },
+  {
+   "id": "G-Dec-15-AM-07",
+   "file": "graphics/G-Dec-15-AM-07.jpg",
+   "template": "Dec-15-AM-07",
+   "media_id": null,
+   "first_used": "2026-12-15",
+   "note": "MSG-SVC-LINEUP"
+  },
+  {
+   "id": "G-Dec-15-PM-01",
+   "file": "graphics/G-Dec-15-PM-01.jpg",
+   "template": "Dec-15-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-15",
+   "note": "MSG-CC-JOIN"
+  },
+  {
+   "id": "G-Dec-16-AM-01",
+   "file": "graphics/G-Dec-16-AM-01.jpg",
+   "template": "Dec-16-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-16",
+   "note": "MSG-REC-OPEN"
+  },
+  {
+   "id": "G-Dec-16-PM-01",
+   "file": "graphics/G-Dec-16-PM-01.jpg",
+   "template": "Dec-16-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-16",
+   "note": "MSG-SVC-STREAMS"
+  },
+  {
+   "id": "G-Dec-17-AM-01",
+   "file": "graphics/G-Dec-17-AM-01.jpg",
+   "template": "Dec-17-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-17",
+   "note": "MSG-FM-ONEHOME"
+  },
+  {
+   "id": "G-Dec-17-PM-01",
+   "file": "graphics/G-Dec-17-PM-01.jpg",
+   "template": "Dec-17-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-17",
+   "note": "MSG-SVC-COMMUNITIES"
+  },
+  {
+   "id": "G-Dec-18-AM-01",
+   "file": "graphics/G-Dec-18-AM-01.jpg",
+   "template": "Dec-18-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-18",
+   "note": "MSG-EVT-SUPPLY"
+  },
+  {
+   "id": "G-Dec-18-PM-01",
+   "file": "graphics/G-Dec-18-PM-01.jpg",
+   "template": "Dec-18-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-18",
+   "note": "MSG-SVC-WEBSITES"
+  },
+  {
+   "id": "G-Dec-19-AM-01",
+   "file": "graphics/G-Dec-19-AM-01.jpg",
+   "template": "Dec-19-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-19",
+   "note": "MSG-EVT-GAMENIGHT"
+  },
+  {
+   "id": "G-Dec-19-PM-01",
+   "file": "graphics/G-Dec-19-PM-01.jpg",
+   "template": "Dec-19-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-19",
+   "note": "MSG-SVC-CONTENT"
+  },
+  {
+   "id": "G-Dec-20-AM-01",
+   "file": "graphics/G-Dec-20-AM-01.jpg",
+   "template": "Dec-20-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-20",
+   "note": "MSG-EVT-COLLABNIGHT"
+  },
+  {
+   "id": "G-Dec-20-PM-01",
+   "file": "graphics/G-Dec-20-PM-01.jpg",
+   "template": "Dec-20-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-20",
+   "note": "MSG-SVC-COLLABS"
+  },
+  {
+   "id": "G-Dec-21-AM-01",
+   "file": "graphics/G-Dec-21-AM-01.jpg",
+   "template": "Dec-21-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-21",
+   "note": "MSG-SVC-OVERVIEW"
+  },
+  {
+   "id": "G-Dec-21-PM-01",
+   "file": "graphics/G-Dec-21-PM-01.jpg",
+   "template": "Dec-21-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-21",
+   "note": "MSG-REC-ENLIST"
+  },
+  {
+   "id": "G-Dec-22-AM-01",
+   "file": "graphics/G-Dec-22-AM-01.jpg",
+   "template": "Dec-22-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-22",
+   "note": "MSG-REC-CONSISTENT"
+  },
+  {
+   "id": "G-Dec-22-PM-01",
+   "file": "graphics/G-Dec-22-PM-01.jpg",
+   "template": "Dec-22-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-22",
+   "note": "MSG-SUPPLY-FINALWEEK"
+  },
+  {
+   "id": "G-Dec-23-AM-01",
+   "file": "graphics/G-Dec-23-AM-01.jpg",
+   "template": "Dec-23-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-23",
+   "note": "MSG-REC-CREATOR"
+  },
+  {
+   "id": "G-Dec-23-PM-01",
+   "file": "graphics/G-Dec-23-PM-01.jpg",
+   "template": "Dec-23-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-23",
+   "note": "MSG-SVC-WEB-MEDIA"
+  },
+  {
+   "id": "G-Dec-24-AM-01",
+   "file": "graphics/G-Dec-24-AM-01.jpg",
+   "template": "Dec-24-AM-01",
+   "media_id": null,
+   "first_used": "2026-12-24",
+   "note": "MSG-HOL-XMASEVE"
+  },
+  {
+   "id": "G-Dec-24-PM-01",
+   "file": "graphics/G-Dec-24-PM-01.jpg",
+   "template": "Dec-24-PM-01",
+   "media_id": null,
+   "first_used": "2026-12-24",
+   "note": "MSG-CC-SUPPLYCHANNEL"
+  },
+  {
+   "id": "G-Dec-25-AM-01",
+   "file": "graphics/G-Dec-25-AM-01.jpg",
+   "template": "Dec-25-AM-01",
+   "media_id": "M003",
+   "first_used": "2026-12-25",
+   "note": "MSG-HOL-XMAS"
+  },
+  {
+   "id": "G-Dec-25-PM-01",
+   "file": "graphics/G-Dec-25-PM-01.jpg",
+   "template": "Dec-25-PM-01",
+   "media_id": "M006",
+   "first_used": "2026-12-25",
+   "note": "MSG-SUPPLY-XMAS"
+  },
+  {
+   "id": "G-Dec-26-AM-01",
+   "file": "graphics/G-Dec-26-AM-01.jpg",
+   "template": "Dec-26-AM-01",
+   "media_id": "M013",
+   "first_used": "2026-12-26",
+   "note": "MSG-EVT-GAMENIGHT-HOWTO"
+  },
+  {
+   "id": "G-Dec-26-PM-01",
+   "file": "graphics/G-Dec-26-PM-01.jpg",
+   "template": "Dec-26-PM-01",
+   "media_id": "M007",
+   "first_used": "2026-12-26",
+   "note": "MSG-SVC-STREAMS-ALERTS"
+  },
+  {
+   "id": "G-Dec-27-AM-01",
+   "file": "graphics/G-Dec-27-AM-01.jpg",
+   "template": "Dec-27-AM-01",
+   "media_id": "M016",
+   "first_used": "2026-12-27",
+   "note": "MSG-EVT-COLLAB-STREAMERS"
+  },
+  {
+   "id": "G-Dec-27-PM-01",
+   "file": "graphics/G-Dec-27-PM-01.jpg",
+   "template": "Dec-27-PM-01",
+   "media_id": "M002",
+   "first_used": "2026-12-27",
+   "note": "MSG-BRAND-THANKS"
+  },
+  {
+   "id": "G-Dec-28-AM-01",
+   "file": "graphics/G-Dec-28-AM-01.jpg",
+   "template": "Dec-28-AM-01",
+   "media_id": "M015",
+   "first_used": "2026-12-28",
+   "note": "MSG-SVC-NEWYEAR"
+  },
+  {
+   "id": "G-Dec-28-AM-02",
+   "file": "graphics/G-Dec-28-AM-02.jpg",
+   "template": "Dec-28-AM-02",
+   "media_id": "M015",
+   "first_used": "2026-12-28",
+   "note": "MSG-SVC-NEWYEAR"
+  },
+  {
+   "id": "G-Dec-28-AM-03",
+   "file": "graphics/G-Dec-28-AM-03.jpg",
+   "template": "Dec-28-AM-03",
+   "media_id": "M015",
+   "first_used": "2026-12-28",
+   "note": "MSG-SVC-NEWYEAR"
+  },
+  {
+   "id": "G-Dec-28-PM-01",
+   "file": "graphics/G-Dec-28-PM-01.jpg",
+   "template": "Dec-28-PM-01",
+   "media_id": "M014",
+   "first_used": "2026-12-28",
+   "note": "MSG-SUPPLY-LASTCALL"
+  },
+  {
+   "id": "G-Dec-29-AM-01",
+   "file": "graphics/G-Dec-29-AM-01.jpg",
+   "template": "Dec-29-AM-01",
+   "media_id": "M005",
+   "first_used": "2026-12-29",
+   "note": "MSG-NET-MODEL"
+  },
+  {
+   "id": "G-Dec-29-PM-01",
+   "file": "graphics/G-Dec-29-PM-01.jpg",
+   "template": "Dec-29-PM-01",
+   "media_id": "M009",
+   "first_used": "2026-12-29",
+   "note": "MSG-CC-RANKS"
+  },
+  {
+   "id": "G-Dec-30-AM-01",
+   "file": "graphics/G-Dec-30-AM-01.jpg",
+   "template": "Dec-30-AM-01",
+   "media_id": "M011",
+   "first_used": "2026-12-30",
+   "note": "MSG-REC-STREAMERS"
+  },
+  {
+   "id": "G-Dec-30-PM-01",
+   "file": "graphics/G-Dec-30-PM-01.jpg",
+   "template": "Dec-30-PM-01",
+   "media_id": "M008",
+   "first_used": "2026-12-30",
+   "note": "MSG-SVC-COMM-ONBOARD"
+  },
+  {
+   "id": "G-Dec-31-AM-01",
+   "file": "graphics/G-Dec-31-AM-01.jpg",
+   "template": "Dec-31-AM-01",
+   "media_id": "M017",
+   "first_used": "2026-12-31",
+   "note": "MSG-HOL-NYE"
+  },
+  {
+   "id": "G-Dec-31-PM-01",
+   "file": "graphics/G-Dec-31-PM-01.jpg",
+   "template": "Dec-31-PM-01",
+   "media_id": "M012",
+   "first_used": "2026-12-31",
+   "note": "MSG-SUPPLY-FINAL"
   }
  ]
 }

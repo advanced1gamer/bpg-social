@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-15",
+ "slot": "PM",
+ "time_pt": "15:00",
+ "theme": "Tue \u00b7 Command Center",
+ "format": "quote",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-15-PM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-15-PM-01"
+ ],
+ "caption": "There's a seat in the Command Center with your name on it.\n\nAnnouncements, game nights, collab nights, Supply Drops and support all run through the Black Point Discord. Pull up a seat.\n\nJoin: discord.gg/DCUMe6u7X2\n\n#Discord #GamingCommunity #DiscordServer #BlackPointGaming",
+ "message_id": "MSG-CC-JOIN",
+ "tone": "community",
+ "status": "approved"
+}

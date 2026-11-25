@@ -1,0 +1,23 @@
+{
+ "date": "2026-12-07",
+ "slot": "AM",
+ "time_pt": "09:00",
+ "theme": "Mon \u00b7 Build With Us",
+ "format": "carousel",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-07-AM/01.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-07-AM/02.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-07-AM/03.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-07-AM/04.jpg"
+ ],
+ "graphics": [
+  "G-Dec-07-AM-01",
+  "G-Dec-07-AM-02",
+  "G-Dec-07-AM-03",
+  "G-Dec-07-AM-04"
+ ],
+ "caption": "You bring the vision. We bring the structure and the production.\n\nMost projects stall in one of two places: no structure, or no production. Black Point Gaming builds both. Swipe to see what that covers.\n\nTell us what you're building: link in bio.\n\n#BlackPointGaming #CommunityBuilding #StreamSetup #ContentCreation #CreatorEconomy",
+ "message_id": "MSG-SVC-STRUCTURE",
+ "tone": "command",
+ "status": "approved"
+}

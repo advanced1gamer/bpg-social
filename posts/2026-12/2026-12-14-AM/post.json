@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-14",
+ "slot": "AM",
+ "time_pt": "09:00",
+ "theme": "Mon \u00b7 Build With Us",
+ "format": "checklist",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-14-AM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-14-AM-01"
+ ],
+ "caption": "Starting a build takes less than you think.\n\nThree steps to start a build with Black Point Gaming:\n\n1. Open the link in bio.\n2. Tell us what you're building in the Build With Us form.\n3. Pick one service or several: communities, streams, websites, content, collabs.\n\n#BlackPointGaming #CreatorEconomy #StreamerTips #CommunityBuilding",
+ "message_id": "MSG-SVC-START",
+ "tone": "guide",
+ "status": "approved"
+}

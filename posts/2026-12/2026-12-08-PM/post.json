@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-08",
+ "slot": "PM",
+ "time_pt": "15:00",
+ "theme": "Tue \u00b7 Command Center",
+ "format": "single",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-08-PM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-08-PM-01"
+ ],
+ "caption": "Never miss a go-live again.\n\nIn the Black Point Discord, Black Point Command posts go-lives, new operations, events and reminders in #communications. Supply Drop news lands in #supply-drops. Turn on notifications for both.\n\nJoin: discord.gg/DCUMe6u7X2\n\n#Discord #TwitchCommunity #GamingCommunity #BlackPointGaming",
+ "message_id": "MSG-CC-ALERTS",
+ "tone": "guide",
+ "status": "approved"
+}

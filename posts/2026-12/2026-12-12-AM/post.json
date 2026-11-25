@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-12",
+ "slot": "AM",
+ "time_pt": "09:00",
+ "theme": "Sat \u00b7 Game Night",
+ "format": "checklist",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-12-AM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-12-AM-01"
+ ],
+ "caption": "Weekends at Black Point are community time.\n\nFriday is the Supply Drop. Saturday is Community Game Night. Sunday is Streamer & Gamer Collab Night. Game Night is tonight at 5 PM PT in the Live Operations voice channel, live on stream.\n\nDiscord: discord.gg/DCUMe6u7X2\n\n#GameNight #GamingCommunity #WeekendGaming #BlackPointGaming",
+ "message_id": "MSG-EVT-WEEKEND",
+ "tone": "hype",
+ "status": "approved"
+}

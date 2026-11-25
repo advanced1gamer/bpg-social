@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-10",
+ "slot": "PM",
+ "time_pt": "15:00",
+ "theme": "Thu \u00b7 Service spotlight",
+ "format": "spotlight",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-10-PM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-10-PM-01"
+ ],
+ "caption": "Viewers stay longer when they get to play too.\n\nViewer interaction and rewards turn watching into taking part. We design and build interactive moments that fit your stream.\n\nTell us what you're building: link in bio.\n\n#TwitchStreamer #StreamSetup #ViewerEngagement #BlackPointGaming",
+ "message_id": "MSG-SVC-STREAMS-REWARDS",
+ "tone": "command",
+ "status": "approved"
+}

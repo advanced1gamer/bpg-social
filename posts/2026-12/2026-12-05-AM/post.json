@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-05",
+ "slot": "AM",
+ "time_pt": "09:00",
+ "theme": "Sat \u00b7 Game Night",
+ "format": "checklist",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-05-AM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-05-AM-01"
+ ],
+ "caption": "Never been to Game Night? Three steps and you're in.\n\nCommunity Game Night is tonight at 5 PM PT, live on stream.\n\n1. Join the Black Point Discord.\n2. Hop into the Live Operations voice channel at 5 PM PT.\n3. Play with the squad.\n\nDiscord: discord.gg/DCUMe6u7X2\n\n#GameNight #GamingCommunity #SquadUp #Discord #BlackPointGaming",
+ "message_id": "MSG-EVT-GAMENIGHT-HOWTO",
+ "tone": "guide",
+ "status": "approved"
+}

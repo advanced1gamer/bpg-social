@@ -1,0 +1,21 @@
+{
+ "date": "2026-12-28",
+ "slot": "AM",
+ "time_pt": "09:00",
+ "theme": "Mon \u00b7 Build With Us",
+ "format": "carousel",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-28-AM/01.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-28-AM/02.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-28-AM/03.jpg"
+ ],
+ "graphics": [
+  "G-Dec-28-AM-01",
+  "G-Dec-28-AM-02",
+  "G-Dec-28-AM-03"
+ ],
+ "caption": "Planning something for 2027? Start the build now.\n\nIf next year is the year you level up your community, stream, site or content, start now. Swipe for the short version.\n\nTell us what you're building: link in bio.\n\n#BlackPointGaming #NewYearGoals #ContentCreator #StreamerTips #CommunityBuilding",
+ "message_id": "MSG-SVC-NEWYEAR",
+ "tone": "command",
+ "status": "approved"
+}

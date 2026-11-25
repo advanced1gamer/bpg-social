@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-16",
+ "slot": "PM",
+ "time_pt": "15:00",
+ "theme": "Wed \u00b7 Service spotlight",
+ "format": "checklist",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-16-PM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-16-PM-01"
+ ],
+ "caption": "Run this checklist before your next stream.\n\nThree things that separate a stream from a show:\n\n1. Scenes, overlays and transitions that match your brand.\n2. Alerts and on-screen moments that land.\n3. Viewer interaction and rewards.\n\nMissing one? That's what we build. Link in bio.\n\n#StreamSetup #StreamOverlay #TwitchStreamer #StreamerTips #BlackPointGaming",
+ "message_id": "MSG-SVC-STREAMS",
+ "tone": "guide",
+ "status": "approved"
+}

@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-03",
+ "slot": "PM",
+ "time_pt": "15:00",
+ "theme": "Thu \u00b7 Service spotlight",
+ "format": "spotlight",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-03-PM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-03-PM-01"
+ ],
+ "caption": "First five minutes in a Discord decide if people stay.\n\nRoles, ranks and onboarding give new members a path from day one. We build that structure so your server explains itself.\n\nTell us what you're building: link in bio.\n\n#DiscordServer #CommunityBuilding #DiscordCommunity #BlackPointGaming",
+ "message_id": "MSG-SVC-COMM-ONBOARD",
+ "tone": "command",
+ "status": "approved"
+}

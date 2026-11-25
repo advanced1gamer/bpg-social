@@ -1,0 +1,25 @@
+{
+ "date": "2026-12-01",
+ "slot": "AM",
+ "time_pt": "09:00",
+ "theme": "Tue \u00b7 Build With Us",
+ "format": "carousel",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-01-AM/01.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-01-AM/02.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-01-AM/03.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-01-AM/04.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-01-AM/05.jpg"
+ ],
+ "graphics": [
+  "G-Dec-01-AM-01",
+  "G-Dec-01-AM-02",
+  "G-Dec-01-AM-03",
+  "G-Dec-01-AM-04",
+  "G-Dec-01-AM-05"
+ ],
+ "caption": "Not a streamer? We still build for you.\n\nBlack Point Gaming builds for anyone building something bigger: creators, communities, organizations and brands. Swipe for who we work with and what we build.\n\nTell us what you're building: link in bio.\n\n#BlackPointGaming #CommunityBuilding #ContentCreator #StreamerTips #CreatorEconomy",
+ "message_id": "MSG-SVC-ANYONE",
+ "tone": "command",
+ "status": "approved"
+}

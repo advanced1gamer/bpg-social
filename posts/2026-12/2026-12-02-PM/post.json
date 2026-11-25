@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-02",
+ "slot": "PM",
+ "time_pt": "15:00",
+ "theme": "Wed \u00b7 Service spotlight",
+ "format": "spotlight",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-02-PM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-02-PM-01"
+ ],
+ "caption": "The moment chat remembers is usually the one on screen.\n\nAlerts and on-screen moments are part of how a stream feels. We design and build them to fit your brand, so the big moments land.\n\nTell us what you're building: link in bio.\n\n#StreamAlerts #StreamOverlay #TwitchStreamer #StreamSetup #BlackPointGaming",
+ "message_id": "MSG-SVC-STREAMS-ALERTS",
+ "tone": "command",
+ "status": "approved"
+}

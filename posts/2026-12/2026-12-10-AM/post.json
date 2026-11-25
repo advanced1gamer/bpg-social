@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-10",
+ "slot": "AM",
+ "time_pt": "09:00",
+ "theme": "Thu \u00b7 Field Manual",
+ "format": "checklist",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-10-AM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-10-AM-01"
+ ],
+ "caption": "Field Manual 02: give people a reason to come back.\n\nCommunities grow around rituals. A weekly event gives people a reason to return:\n\n1. Pick one night and keep it.\n2. Make joining easy: no sign-up.\n3. Show up yourself, every week.\n4. Post a reminder the day of.\n\nIt's how Black Point runs its weekends.\n\n#CommunityBuilding #StreamerTips #DiscordCommunity #BlackPointGaming",
+ "message_id": "MSG-FM-RITUALS",
+ "tone": "guide",
+ "status": "approved"
+}

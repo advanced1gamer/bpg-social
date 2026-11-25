@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-04",
+ "slot": "PM",
+ "time_pt": "15:00",
+ "theme": "Fri \u00b7 Service spotlight",
+ "format": "spotlight",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-04-PM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-04-PM-01"
+ ],
+ "caption": "Stop taking applications in DMs.\n\nApplications and inquiries belong on your own site, where you can find them later. We build websites with the forms you need: recruitment, collabs, brand inquiries.\n\nTell us what you're building: link in bio.\n\n#CreatorWebsite #WebDesign #StreamerTips #BlackPointGaming",
+ "message_id": "MSG-SVC-WEB-FORMS",
+ "tone": "command",
+ "status": "approved"
+}

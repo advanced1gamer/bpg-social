@@ -1,0 +1,29 @@
+{
+ "date": "2026-12-15",
+ "slot": "AM",
+ "time_pt": "09:00",
+ "theme": "Tue \u00b7 Build With Us",
+ "format": "carousel",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-15-AM/01.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-15-AM/02.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-15-AM/03.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-15-AM/04.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-15-AM/05.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-15-AM/06.jpg",
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-15-AM/07.jpg"
+ ],
+ "graphics": [
+  "G-Dec-15-AM-01",
+  "G-Dec-15-AM-02",
+  "G-Dec-15-AM-03",
+  "G-Dec-15-AM-04",
+  "G-Dec-15-AM-05",
+  "G-Dec-15-AM-06",
+  "G-Dec-15-AM-07"
+ ],
+ "caption": "Not sure what you need? Start with the problem.\n\nMatch what's not working to what we build. Swipe through, find yours, and mix as many as you need.\n\nTell us what you're building: link in bio.\n\n#BlackPointGaming #StreamerTips #DiscordServer #ContentCreator #StreamSetup",
+ "message_id": "MSG-SVC-LINEUP",
+ "tone": "guide",
+ "status": "approved"
+}

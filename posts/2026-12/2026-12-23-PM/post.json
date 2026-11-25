@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-23",
+ "slot": "PM",
+ "time_pt": "15:00",
+ "theme": "Wed \u00b7 Service spotlight",
+ "format": "spotlight",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-23-PM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-23-PM-01"
+ ],
+ "caption": "Where do new fans go after they find you?\n\nGive them one home: your schedule, your media and every link, on a website built for your brand.\n\nTell us what you're building: link in bio.\n\n#CreatorWebsite #StreamerTips #WebDesign #BlackPointGaming",
+ "message_id": "MSG-SVC-WEB-MEDIA",
+ "tone": "command",
+ "status": "approved"
+}

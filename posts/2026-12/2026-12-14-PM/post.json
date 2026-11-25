@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-14",
+ "slot": "PM",
+ "time_pt": "15:00",
+ "theme": "Mon \u00b7 Command Center",
+ "format": "single",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-14-PM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-14-PM-01"
+ ],
+ "caption": "A quick safety briefing for every Supply Drop winner.\n\nBlack Point Gaming never DMs winners asking for payment or fees. We only reach out to verify your identity and, for physical prizes, confirm your name and shipping address. Winner communication happens in Discord.\n\nIf anyone asks you to pay to claim a prize, it isn't us. Report it to staff.\n\nUS only \u00b7 18+ \u00b7 Discord required. Full rules on the website. Black Point Gaming never DMs winners asking for payment or fees.\n\n#GiveawaySafety #SupplyDrop #Discord #BlackPointGaming",
+ "message_id": "MSG-SUPPLY-SAFETY",
+ "tone": "community",
+ "status": "approved"
+}

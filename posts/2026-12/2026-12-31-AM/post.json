@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-31",
+ "slot": "AM",
+ "time_pt": "09:00",
+ "theme": "New Year's Eve",
+ "format": "single",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-31-AM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-31-AM-01"
+ ],
+ "caption": "Last transmission of 2026.\n\nThank you to every operator who joined, played, collabed and showed up this year. Happy New Year's Eve from Black Point Gaming. 2027, we're ready.\n\n#NewYearsEve #HappyNewYear #GamingCommunity #BlackPointGaming",
+ "message_id": "MSG-HOL-NYE",
+ "tone": "community",
+ "status": "approved"
+}

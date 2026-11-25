@@ -1,0 +1,17 @@
+{
+ "date": "2026-12-11",
+ "slot": "PM",
+ "time_pt": "15:00",
+ "theme": "Fri \u00b7 Service spotlight",
+ "format": "spotlight",
+ "images": [
+  "https://raw.githubusercontent.com/advanced1gamer/bpg-social/main/posts/2026-12/2026-12-11-PM/01.jpg"
+ ],
+ "graphics": [
+  "G-Dec-11-PM-01"
+ ],
+ "caption": "A server without events is just a group chat.\n\nEvents and rituals give a community a pulse. We plan and build them into your Discord: weekly nights, community drops, recurring moments people look forward to.\n\nTell us what you're building: link in bio.\n\n#DiscordServer #CommunityBuilding #DiscordEvents #BlackPointGaming",
+ "message_id": "MSG-SVC-COMM-EVENTS",
+ "tone": "command",
+ "status": "approved"
+}
